@@ -19,11 +19,11 @@
         </section>
 
         <section>
-            <h2>My Projects</h2>
+            <h2>My Goals</h2>
             <ul>
-                <li><a href="https://github.com/yourusername/project1" target="_blank">Project 1</a></li>
-                <li><a href="https://github.com/yourusername/project2" target="_blank">Project 2</a></li>
-                <li><a href="https://github.com/yourusername/project3" target="_blank">Project 3</a></li>
+                <p><a href="https://github.com/yourusername/project1" target="_blank">Improve learning.</a></li>
+                <p><a href="https://github.com/yourusername/project2" target="_blank">Improve creativity</a></li>
+                <p><a href="https://github.com/yourusername/project3" target="_blank">Improve job oppurtinities</a></li>
             </ul>
         </section>
     </main>
